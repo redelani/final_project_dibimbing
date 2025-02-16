@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+joblib
+scikit-learn
+numpy
+pandas
+tensorflow
+pydantic
+streamlit
+SQLAlchemy
+psycopg2-binary
+Sastrawi
+nltk
+plotly
+seaborn
+matplotlib
